@@ -1,3 +1,3 @@
 # Elijah Day
 
-I make games.
+[github.com/elijah-day](https://github.com/elijah-day)
